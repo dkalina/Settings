@@ -1,5 +1,13 @@
 
     "</string>
+    <string name="accessibility_feature_state_off">Vypnuto</string>
+    <string name="accessibility_feature_state_on">Zapnuto</string>
+    <string name="accessibility_global_gesture_preference_summary_off">Vypnuto</string>
+    <string name="accessibility_global_gesture_preference_summary_on">Zapnuto</string>
+    <string name="accessibility_feature_state_off">Vypnuto</string>
+    <string name="accessibility_feature_state_on">Zapnuto</string>
+    <string name="accessibility_global_gesture_preference_summary_off">Vypnuto</string>
+    <string name="accessibility_global_gesture_preference_summary_on">Zapnuto</string>
     <string name="about_settings">Info o telefonu</string>
     <string name="about_settings_summary">Zobrazí právní informace, stav a verzi softwaru</string>
     <string name="ac_enable_title">Zapnout kontrolu přístupu</string>
