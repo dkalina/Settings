@@ -1,0 +1,55 @@
+    <string-array name="date_format_values">
+        <item>MM-dd-yyyy</item>
+        <item>dd-MM-yyyy</item>
+        <item>yyyy-MM-dd</item>
+    </string-array>
+    <string-array name="date_format_values_desc">
+        <item>MM-dd-yyyy</item>
+        <item>dd-MM-yyyy</item>
+        <item>yyyy-MM-dd</item>
+    </string-array>
+    <string-array name="app_install_location_values">
+        <item>device</item>
+        <item>sdcard</item>
+        <item>auto</item>
+    </string-array>
+    <string-array name="hdcp_checking_values">
+        <item>never</item>
+        <item>drm-only</item>
+        <item>always</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_values">
+        <item>0</item>
+        <item>1</item>
+        <item>systrace</item>
+        <item>error</item>
+    </string-array>
+    <string-array name="deep_sleep_music_entries">
+        <item>Quiet Night</item>
+        <item>Dream Kingdom</item>
+        <item>Dream Hometown</item>
+        <item>"Angel's Party"</item>
+    </string-array>
+    <string-array name="motion_settings_description_title">
+        <item>Motion dial</item>
+        <item>Motion answer</item>
+        <item>Turn over silent</item>
+        <item>Shake change songs</item>
+        <item>Screen capture</item>
+        <item>Shake update</item>
+        <item>Smart notify</item>
+    </string-array>
+    <string-array name="motion_settings_description_summary">
+        <item>"  contacts,calllogs, contacts detail screen  pick up you phone to ear to dial "</item>
+        <item>ringing pick up you phone to ear to answer the call</item>
+        <item>turn over to silent</item>
+        <item>left shake to change previous song and right shake to change next song at music player</item>
+        <item>three finger up to screen to capture</item>
+        <item>BT or WIFI device shake to update</item>
+        <item>pick up you phone to notify missed message</item>
+    </string-array>
+    <string-array name="locale_on_off_keep">
+        <item>Enable</item>
+        <item>Disable</item>
+        <item>Keep as is</item>
+    </string-array>
