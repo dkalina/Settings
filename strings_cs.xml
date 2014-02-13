@@ -1,9 +1,9 @@
 
     "</string>
-    <string name="accessibility_feature_state_off">Vypnuto</string>
-    <string name="accessibility_feature_state_on">Zapnuto</string>
-    <string name="accessibility_global_gesture_preference_summary_off">Vypnuto</string>
-    <string name="accessibility_global_gesture_preference_summary_on">Zapnuto</string>
+    <string name="accessibility_feature_state_off">Vy</string>
+    <string name="accessibility_feature_state_on">Za</string>
+    <string name="accessibility_global_gesture_preference_summary_off">Vy</string>
+    <string name="accessibility_global_gesture_preference_summary_on">Za</string>
     <string name="accessibility_feature_state_off">Vypnuto</string>
     <string name="accessibility_feature_state_on">Zapnuto</string>
     <string name="accessibility_global_gesture_preference_summary_off">Vypnuto</string>
